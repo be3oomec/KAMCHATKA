@@ -1,0 +1,15 @@
+// base
+@import "./options/vars";
+@import "./options/reset";
+@import "./options/mixins";
+@import "./options/fonts";
+@import "./options/settings";
+
+// pages
+// components page
+@import "./components/header";
+@import "./components/burger";
+@import "./components/hero";
+@import "./components/info";
+@import "./components/modal";
+@import "./components/footer";
